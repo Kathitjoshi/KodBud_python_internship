@@ -1,0 +1,5 @@
+# No external dependencies required.
+# Tkinter is part of Python's standard library.
+#
+# On Ubuntu/Debian only, install the system package if missing:
+#   sudo apt-get install python3-tk
